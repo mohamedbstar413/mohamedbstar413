@@ -103,7 +103,7 @@ Built a **full-stack e-commerce platform** with authentication, product manageme
 ## 📫 Contact
 
 **👤 Mohamed Abd Elsattar**  
-💼 [LinkedIn](https://www.linkedin.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/mohamed-abdelsattar-71251b28a/)  
 💻 [GitHub](https://github.com/mohamedbstar413)
 
 ---
