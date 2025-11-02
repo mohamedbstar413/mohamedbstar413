@@ -23,7 +23,22 @@ Integrated **Jenkins** for automated CI/CD pipelines and infrastructure provisio
 
 ---
 
-## ☸️ 2. EKS Ingress-NGINX Deployment  
+## ☸️ 2. Kubernetes CI/CD Pipeline with Jenkins Dynamic Agents  
+📂 **Repository:** [View Project on GitHub](https://github.com/mohamedbstar413/go-app-repo/)
+
+**Description:**  
+Configured a **Jenkins Pipeline** to use **Dynamic Agents** using a **Separate Container** for each **Pipeline Stage**
+
+**Tech Stack:**  
+`AWS EKS` • `Kubernetes` • `Jenkins` • `Dynamic Agents` • `YAML`
+
+**Highlights:**  
+- Automated Building Dynamic Agents inside Jenkins.  
+- Used Jenkins Inside Kubernetes as a CI/CD Pipeline.
+
+---
+
+## ☸️ 3. EKS Ingress-NGINX Deployment  
 📂 **Repository:** [View Project on GitHub](https://github.com/mohamedbstar413/kubernetes/tree/main/ingress-project)
 
 **Description:**  
@@ -38,7 +53,7 @@ Configured an **Ingress-NGINX controller** on **AWS EKS** for routing and load b
 
 ---
 
-## 🧠 3. Query-Based Database Management System  
+## 🧠 4. Query-Based Database Management System  
 📂 **Repository:** [View Project on GitHub](https://github.com/mohamedbstar413/bash)
 
 **Description:**  
@@ -54,7 +69,7 @@ Built a lightweight **database engine** in **Bash** that supports SQL-like queri
 
 ---
 
-## 🔄 4. CI/CD Pipeline for JavaScript App using Jenkins  
+## 🔄 5. CI/CD Pipeline for JavaScript App using Jenkins  
 📂 **Repository:** [View Project on GitHub](https://github.com/mohamedbstar413/jenkins-solar-system2)
 
 **Description:**  
@@ -69,7 +84,7 @@ Developed a **Jenkins-based CI/CD pipeline** for a JavaScript app — automating
 
 ---
 
-## 🛒 5. E-Commerce Website (MERN Stack)  
+## 🛒 6. E-Commerce Website (MERN Stack)  
 📂 **Repository:** [View Project on GitHub](https://github.com/mohamedbstar/web/tree/master/E-Commerce%20app)
 
 **Description:**  
